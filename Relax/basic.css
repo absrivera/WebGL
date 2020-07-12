@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+  
+}
+
+audio{
+    background-color: black;
+}
+
+
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    padding: 0;
+  }
